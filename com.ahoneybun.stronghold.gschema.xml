@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="stronghold">
+	<schema id="com.ahoneybun.stronghold" path="/com/ahoneybun/stronghold/">
+	</schema>
+</schemalist>

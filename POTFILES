@@ -1,0 +1,7 @@
+data/com.ahoneybun.stronghold.desktop.in
+data/com.ahoneybun.stronghold.appdata.xml.in
+data/com.ahoneybun.stronghold.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
